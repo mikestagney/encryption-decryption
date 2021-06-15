@@ -4,7 +4,7 @@ Run from command line arguments, using Strategy design pattern to implement two 
 
 ## Things learned
 
-Regular expresions used for first time
+Regular expressions used for first time
 
 Strategy Design pattern 
 
